@@ -2,4 +2,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&show_icons=true)
 
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DPS0340&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DPS0340&layout=compact)
