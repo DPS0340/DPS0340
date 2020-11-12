@@ -52,6 +52,13 @@ Currently I'm preparing altanative millitary service in 2021. kindly help is alw
 
 And I'm always looking forward to task :D **Money Matters!** Mainly Android, Arduino, Web.
 
+## Prefer IDE
+
+VS Code: Such a good editor
+Emacs(Spacemacs): Gave me awesome exeperience
+Vim: For god's sake, Vim's system and shortcut is perfect! please don't underestimate it
+Intellij Family: Stable and Reliable, Comfortable Like Airbus A380
+
 ## Finally..
 
 Also visit [My Blog](https://dps0340.github.io/)!
