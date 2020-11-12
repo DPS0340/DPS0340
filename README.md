@@ -15,13 +15,7 @@ Clean code, Workflow matters
 
 Mainly: Kotlin, Flutter, Java, Arduino
 
-Vice versa:
-
-Javascript, Node.js
-
-Python
-
-C++ - Mainly Problem Solving
+Vice versa: Javascript, Node.js, Python, C, C++ - Mainly Problem Solving
 
 Once exprerienced:
 
