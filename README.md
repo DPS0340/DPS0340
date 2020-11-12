@@ -5,7 +5,7 @@
 ## Who am i?
 Computer Science Sophomore in KPU
 
-Study Addict
+Study, Programming Addict
 
 Functional Programming maniac
 
