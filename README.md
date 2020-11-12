@@ -49,8 +49,11 @@ Julia, Scala, Haskell, Go, Scheme, Racket, Standard ML, .. etc.
 **Feeeeel free** to contact me!
 
 Email: optional.int@kakao.com (Late check)
+
 Phone: +821038210996 (Literally Best!)
+
 Discord: 에스트병#3616
+
 
 Currently I'm preparing altanative millitary service in 2021. kindly help is always welcome.
 
