@@ -54,7 +54,7 @@ Discord: 에스트병#3616
 
 Currently I'm preparing altanative millitary service in 2021. kindly help is always welcome.
 
-And I'm always looking forward task :D **🪙 Matters!** Mainly Android, Arduino, Web.
+And I'm always looking forward task :D **Money Matters!** Mainly Android, Arduino, Web.
 
 ## Finally..
 
