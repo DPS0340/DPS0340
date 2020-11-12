@@ -37,7 +37,7 @@ Phone: +821038210996 (Literally Best!)
 Discord: 에스트병#3616
 ```
 
-Currently I'm preparing altanative millitary service in 2021. kindly help is always welcome.
+Currently I'm preparing altanative millitary service in 2021. kind help is always welcome.
 
 And I'm always looking forward to task 😄 **Money Matters!** Mainly Android, Arduino, Web.
 
