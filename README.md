@@ -57,7 +57,7 @@ And I'm always looking forward to task :D **Money Matters!** Mainly Android, Ard
 VS Code: Such a good editor
 Emacs(Spacemacs): Gave me awesome exeperience
 Vim: For god's sake, Vim's system and shortcut is perfect! please don't underestimate it
-Intellij Family: Stable and Reliable, Comfortable Like Airbus A380
+Intellij Family: Stable and Reliable, Comfortable like Airbus A380
 
 ## Finally..
 
