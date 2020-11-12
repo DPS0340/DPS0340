@@ -3,7 +3,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&show_icons=true&theme=dracula)
 
 ## Who am i?
-<div style="align: center">
 Computer Science Sophomore in KPU
 
 Study Addict
@@ -11,7 +10,6 @@ Study Addict
 Functional Programming maniac
 
 Rockstar Wannabe
-</div>
 
 ## Skills
 
