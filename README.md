@@ -27,17 +27,6 @@ Julia, Scala, Haskell, Go, Scheme, Racket, Standard ML, .. etc.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DoItDataRithm&theme=dracula)](https://github.com/DPS0340/DoItDataRithm) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=PLT&theme=dracula)](https://github.com/DPS0340/PLT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=dracula)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=TSP-Multithread&theme=dracula)](https://github.com/DPS0340/TSP-Multithread)
 
-
-## Some stats
-
-**Solved.ac**
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891) 
-
-**StackOverflow Status**
-
-[![jiho lee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11853111)](https://stackoverflow.com/users/11853111/jiho-lee)
-
 ## How to contact?
 
 **Feeeeel free** to contact me!
@@ -60,6 +49,18 @@ Emacs(Spacemacs): Gave me awesome exeperience
 Vim: For god's sake, Vim's system and shortcut is perfect! please don't underestimate it
 Intellij Family: Stable and Reliable, Comfortable like Airbus A380
 ```
+
+
+## Some stats
+
+**Solved.ac**
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891) 
+
+**StackOverflow Status**
+
+[![jiho lee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11853111)](https://stackoverflow.com/users/11853111/jiho-lee)
+
 
 ## Finally..
 
