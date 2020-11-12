@@ -23,9 +23,9 @@ Julia, Scala, Haskell, Go, Scheme, Racket, Standard ML, .. etc.
 
 ## Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=nand2tetris)](https://github.com/dps0340/nand2tetris) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kpu-ksla&repo=attman)](https://github.com/KPU-KSLA/attman)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DoItDataRithm)](https://github.com/DPS0340/DoItDataRithm) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=PLT)](https://github.com/DPS0340/PLT)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=TSP-Multithread)](https://github.com/DPS0340/TSP-Multithread)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=nand2tetris&theme=dracula)](https://github.com/dps0340/nand2tetris) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kpu-ksla&repo=attman&theme=dracula)](https://github.com/KPU-KSLA/attman)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DoItDataRithm&theme=dracula)](https://github.com/DPS0340/DoItDataRithm) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=PLT&theme=dracula)](https://github.com/DPS0340/PLT)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=dracula)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=TSP-Multithread&theme=dracula)](https://github.com/DPS0340/TSP-Multithread)
 
 
 ## Some stats
