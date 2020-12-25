@@ -15,7 +15,7 @@ Clean code, Workflow matters
 
 Mainly: Kotlin, Javascript, Java
 
-Vice versa: Javascript, Node.js, Python, Arduino, C, C++ - Mainly Problem Solving
+Vice versa: Node.js, Python, Arduino, C, C++ - Mainly Problem Solving
 
 Once exprerienced:
 
@@ -34,7 +34,7 @@ Julia, Scala, Haskell, Go, Scheme, Racket, Standard ML, .. etc.
 ```
 Email: optional.int@kakao.com (Late check)
 Phone: +821038210996 (Literally Best!)
-Discord: 에스트병#3616
+Discord: 이지호#7007
 ```
 
 Currently I'm preparing altanative millitary service in 2021. kind help is always welcome.
