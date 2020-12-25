@@ -13,7 +13,7 @@ Clean code, Workflow matters
 
 ## Skills
 
-Mainly: Kotlin, Javascript, 
+Mainly: Kotlin, Javascript
 
 Vice versa: Java, Node.js, Python, Arduino, C, C++ - Mainly Problem Solving
 
