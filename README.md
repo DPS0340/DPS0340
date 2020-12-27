@@ -13,19 +13,26 @@ Clean code, Workflow matters
 
 ## Skills
 
-Mainly: Kotlin, Javascript
+Mainly: Javascript
 
-Vice versa: Java, Node.js, Python, Arduino, C, C++ - Mainly Problem Solving
+Vice versa: Java, Kotlin, Node.js, Python, Arduino, C, C++ - Mainly Problem Solving
 
 Once exprerienced:
 
 Julia, Scala, Haskell, Go, Scheme, Racket, Standard ML, .. etc.
 
-## Projects
+## Individual Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=nand2tetris&theme=dracula)](https://github.com/dps0340/nand2tetris) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kpu-ksla&repo=attman&theme=dracula)](https://github.com/KPU-KSLA/attman)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=nand2tetris&theme=dracula)](https://github.com/dps0340/nand2tetris) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DoItDataRithm&theme=dracula)](https://github.com/DPS0340/DoItDataRithm) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=PLT&theme=dracula)](https://github.com/DPS0340/PLT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=dracula)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=TSP-Multithread&theme=dracula)](https://github.com/DPS0340/TSP-Multithread)
+
+## Team Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kpu-ksla&repo=attman&theme=dracula)](https://github.com/KPU-KSLA/attman)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kpu-ksla&repo=adminPage&theme=dracula)](https://github.com/KPU-KSLA/adminPage)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DPS0340&repo=DjangoCRUDBoard&theme=dracula)](https://github.com/DPS0340/DjangoCRUDBoard)
+
 
 ## How to contact?
 
