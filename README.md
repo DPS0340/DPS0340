@@ -11,11 +11,13 @@ Functional Programming maniac
 
 Clean code, Workflow matters
 
+[Resume.pdf](https://github.com/DPS0340/DPS0340/blob/master/Resume.pdf) (Korean)
+
 ## Skills
 
-Mainly: Javascript
+Mainly: Javascript, Python
 
-Vice versa: Java, Kotlin, Node.js, Python, Arduino, C, C++ - Mainly Problem Solving
+Vice versa: Java, Kotlin, Node.js, Arduino, C, C++ - Mainly Problem Solving
 
 Once exprerienced:
 
@@ -43,6 +45,8 @@ Email: optional.int@kakao.com (Late check)
 Phone: +821038210996 (Literally Best!)
 Discord: 이지호#7007
 ```
+
+[RocketPunch profile](https://www.rocketpunch.com/@8eab1258c6274628)
 
 Currently I'm preparing altanative millitary service in 2021. kind help is always welcome.
 
