@@ -77,4 +77,4 @@ Intellij Family: Stable and Reliable, Comfortable like Airbus A380
 
 ## Finally..
 
-Also visit [My Blog](https://dps0340.github.io/)!
+Also visit [My Blog](https://dps0340.github.io/) [Velog](https://velog.io/@dps0340)!
