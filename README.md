@@ -11,8 +11,6 @@ Functional Programming maniac
 
 Clean code, Workflow matters
 
-[Resume.pdf](https://github.com/DPS0340/DPS0340/blob/master/Resume.pdf) (Korean)
-
 ## Skills
 
 Mainly: Javascript, Python
@@ -43,14 +41,10 @@ Julia, Scala, Haskell, Go, Scheme, Racket, Standard ML, .. etc.
 ```
 Email: optional.int@kakao.com (Late check)
 Phone: +821038210996 (Literally Best!)
-Discord: 이지호#7007
+Discord: 이지호#1372
 ```
 
-[RocketPunch profile](https://www.rocketpunch.com/@8eab1258c6274628)
-
-Currently I'm preparing altanative millitary service in 2021. kind help is always welcome.
-
-And I'm always looking forward to task commission 😄 **Money Matters!** Mainly Android, Arduino, Web.
+I'm always looking forward to task commission 😄 **Money Matters!** Mainly Android, Arduino, Web.
 
 also, I'm finding exciting open source which I can contribute. Would you?
 
