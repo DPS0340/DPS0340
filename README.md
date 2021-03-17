@@ -3,7 +3,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&show_icons=true&theme=dracula)
 
 ## Who am I?
-Computer Science Sophomore in Korea Polytechnic University
+Computer Science Junior in Korea Polytechnic University
 
 Study, Programming Addict
 
