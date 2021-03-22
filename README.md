@@ -26,7 +26,7 @@ Julia, Scala, Haskell, Go, Scheme, Racket, Standard ML, .. etc.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=nand2tetris&theme=dracula)](https://github.com/dps0340/nand2tetris) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DoItDataRithm&theme=dracula)](https://github.com/DPS0340/DoItDataRithm) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=PLT&theme=dracula)](https://github.com/DPS0340/PLT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=dracula)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=TSP-Multithread&theme=dracula)](https://github.com/DPS0340/TSP-Multithread)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DQNDemo&theme=dracula)](https://github.com/DPS0340/DQNDemo) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=PublicDataAssignment&theme=dracula)](https://github.com/DPS0340/PublicDataAssignment)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DQNDemo&theme=dracula)](https://github.com/DPS0340/DQNDemo) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=PublicDataAssignment&theme=dracula)](https://github.com/DPS0340/PublicDataAssignment) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=dracula)](https://github.com/DPS0340/ExpoCrudBoard)
 
 ## Team Projects
 
