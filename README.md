@@ -3,7 +3,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&show_icons=true&theme=dracula)
 
 ## Who am I?
-[RESUME (korean)](https://www.notion.so/e9f68fa82a5d4bafba8b1e9e930d23a4)
+[RESUME](https://www.notion.so/e9f68fa82a5d4bafba8b1e9e930d23a4) (korean)
 
 ## Individual Projects
 
