@@ -3,23 +3,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&show_icons=true&theme=dracula)
 
 ## Who am I?
-Computer Science Junior in Korea Polytechnic University
-
-Study, Programming Addict
-
-Functional Programming maniac
-
-Clean code, Workflow matters
-
-## Skills
-
-Mainly: Javascript, Python
-
-Vice versa: Java, Kotlin, Node.js, Arduino, C, C++ - Mainly Problem Solving
-
-Once exprerienced:
-
-Julia, Scala, Haskell, Go, Scheme, Racket, Standard ML, .. etc.
+[RESUME (korean)](https://www.notion.so/e9f68fa82a5d4bafba8b1e9e930d23a4)
 
 ## Individual Projects
 
