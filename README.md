@@ -29,9 +29,7 @@ Phone: +821038210996 (Literally Best!)
 Discord: 이지호#9999
 ```
 
-I'm always looking forward to task commission 😄 **Money Matters!** Mainly Android, Arduino, Web.
-
-also, I'm finding exciting open source which I can contribute. Would you?
+I'm finding exciting open source which I can contribute. Would you?
 
 ## Prefer IDE
 
