@@ -17,19 +17,15 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kpu-ksla&repo=attman&theme=dracula)](https://github.com/KPU-KSLA/attman)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kpu-ksla&repo=adminPage&theme=dracula)](https://github.com/KPU-KSLA/adminPage)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DPS0340&repo=DjangoCRUDBoard&theme=dracula)](https://github.com/DPS0340/DjangoCRUDBoard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenend-KPU&repo=LBS-Platform&theme=dracula)](https://github.com/Lenend-KPU/LBS-Platform)
 
 
 ## How to contact?
 
-**Feeeeel free** to contact me!
-
 ```
-Email: optional.int@kakao.com (Late check)
-Phone: +821038210996 (Literally Best!)
-Discord: 이지호#9999
+Email: optional.int@kakao.com
+Phone: +821038210996
 ```
-
-I'm finding exciting open source which I can contribute. Would you?
 
 ## Prefer IDE
 
