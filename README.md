@@ -17,11 +17,7 @@ Weekend low level / compiler developer wannabe
 ```
 
 ## Individual Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=nand2tetris&theme=dracula)](https://github.com/dps0340/nand2tetris) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DoItDataRithm&theme=dracula)](https://github.com/DPS0340/DoItDataRithm) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=PLT&theme=dracula)](https://github.com/DPS0340/PLT)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=dracula)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=TSP-Multithread&theme=dracula)](https://github.com/DPS0340/TSP-Multithread)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DQNDemo&theme=dracula)](https://github.com/DPS0340/DQNDemo) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=PublicDataAssignment&theme=dracula)](https://github.com/DPS0340/PublicDataAssignment) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=dracula)](https://github.com/DPS0340/ExpoCrudBoard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=dracula)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=dracula)](https://github.com/DPS0340/ExpoCrudBoard) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DQNDemo&theme=dracula)](https://github.com/DPS0340/DQNDemo)
 
 ## Recent PoCs
 
@@ -29,7 +25,5 @@ Weekend low level / compiler developer wannabe
 
 ## Team Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kpu-ksla&repo=attman&theme=dracula)](https://github.com/KPU-KSLA/attman)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kpu-ksla&repo=adminPage&theme=dracula)](https://github.com/KPU-KSLA/adminPage)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DPS0340&repo=DjangoCRUDBoard&theme=dracula)](https://github.com/DPS0340/DjangoCRUDBoard)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenend-KPU&repo=LBS-Platform&theme=dracula)](https://github.com/Lenend-KPU/LBS-Platform)
