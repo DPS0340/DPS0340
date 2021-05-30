@@ -33,36 +33,3 @@ Weekend low level / compiler developer wannabe
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kpu-ksla&repo=adminPage&theme=dracula)](https://github.com/KPU-KSLA/adminPage)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DPS0340&repo=DjangoCRUDBoard&theme=dracula)](https://github.com/DPS0340/DjangoCRUDBoard)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenend-KPU&repo=LBS-Platform&theme=dracula)](https://github.com/Lenend-KPU/LBS-Platform)
-
-
-## How to contact?
-
-```
-Email: optional.int@kakao.com
-Phone: +821038210996
-```
-
-## Prefer IDE
-
-```
-VS Code: Such a good editor
-Emacs(Spacemacs): Gave me awesome exeperience
-Vim: For god's sake, Vim's system and shortcut is perfect! please don't underestimate it
-Intellij Family: Stable and Reliable, Comfortable like Airbus A380
-```
-
-
-## Some stats
-
-**Solved.ac**
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891) 
-
-**StackOverflow Status**
-
-[![jiho lee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11853111)](https://stackoverflow.com/users/11853111/jiho-lee)
-
-
-## Finally..
-
-Also visit [My Blog](https://dps0340.github.io/) [Velog](https://velog.io/@dps0340)!
