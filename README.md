@@ -5,6 +5,17 @@
 ## Who am I?
 [RESUME](https://www.notion.so/e9f68fa82a5d4bafba8b1e9e930d23a4) (korean)
 
+**Currently..**
+```
+Full stack web developer in Autocrypt using spring boot / vue
+```
+```
+Android developer for fun
+```
+```
+Weekend low level / compiler developer wannabe
+```
+
 ## Individual Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=nand2tetris&theme=dracula)](https://github.com/dps0340/nand2tetris) 
