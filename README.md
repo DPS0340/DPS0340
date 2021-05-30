@@ -13,7 +13,7 @@ Full stack web developer in Autocrypt using spring boot / vue
 Android developer for fun
 ```
 ```
-Weekend low level / compiler developer wannabe
+Weekend system programmer / compiler developer wannabe
 ```
 
 ## Individual Projects
