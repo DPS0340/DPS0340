@@ -12,6 +12,10 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=dracula)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=TSP-Multithread&theme=dracula)](https://github.com/DPS0340/TSP-Multithread)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DQNDemo&theme=dracula)](https://github.com/DPS0340/DQNDemo) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=PublicDataAssignment&theme=dracula)](https://github.com/DPS0340/PublicDataAssignment) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=dracula)](https://github.com/DPS0340/ExpoCrudBoard)
 
+## Recent PoCs
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=acorn-random&theme=dracula)](https://github.com/DPS0340/acorn-random) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=params-to-querydsl-example&theme=dracula)](https://github.com/DPS0340/params-to-querydsl-example) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=yagcplus&theme=dracula)](https://github.com/DPS0340/yagcplus)
+
 ## Team Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kpu-ksla&repo=attman&theme=dracula)](https://github.com/KPU-KSLA/attman)
