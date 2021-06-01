@@ -7,7 +7,7 @@
 
 **Currently..**
 ```
-Full stack web developer in Autocrypt using spring boot / vue
+Front-end web developer in Autocrypt using vue.js
 ```
 ```
 Android developer for fun
