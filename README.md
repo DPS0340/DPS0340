@@ -27,3 +27,10 @@ Weekend system programmer / compiler developer wannabe
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DPS0340&repo=DjangoCRUDBoard&theme=dracula)](https://github.com/DPS0340/DjangoCRUDBoard)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenend-KPU&repo=LBS-Platform&theme=dracula)](https://github.com/Lenend-KPU/LBS-Platform)
+
+## Contacts
+
+```
+Phone: +821038210996
+Email: optional.int@kakao.com
+```
