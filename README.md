@@ -9,12 +9,6 @@
 ```
 Front-end web developer in Autocrypt using vue.js
 ```
-```
-Android developer for fun
-```
-```
-Weekend system programmer / compiler developer wannabe
-```
 
 ## Individual Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=dracula)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=dracula)](https://github.com/DPS0340/ExpoCrudBoard) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DQNDemo&theme=dracula)](https://github.com/DPS0340/DQNDemo)
