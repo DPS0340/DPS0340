@@ -5,11 +5,6 @@
 ## Who am I?
 [RESUME](https://www.notion.so/e9f68fa82a5d4bafba8b1e9e930d23a4) (korean)
 
-**Currently..**
-```
-Front-end web developer in Autocrypt using vue.js
-```
-
 ## Individual Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=dracula)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=dracula)](https://github.com/DPS0340/ExpoCrudBoard) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DQNDemo&theme=dracula)](https://github.com/DPS0340/DQNDemo)
 
