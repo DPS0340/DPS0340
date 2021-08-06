@@ -2,6 +2,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&show_icons=true&theme=dracula)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891) 
+
 ## Who am I?
 [RESUME](https://www.notion.so/e9f68fa82a5d4bafba8b1e9e930d23a4) (korean)
 
