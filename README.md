@@ -18,6 +18,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DPS0340&repo=DjangoCRUDBoard&theme=dracula)](https://github.com/DPS0340/DjangoCRUDBoard)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenend-KPU&repo=LBS-Platform&theme=dracula)](https://github.com/Lenend-KPU/LBS-Platform)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Join2Gather&repo=Join2Gather&theme=dracula)](https://github.com/Join2Gather/Join2Gather)
 
 ## Contacts
 
