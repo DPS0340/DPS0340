@@ -5,7 +5,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891) 
 
 ## Who am I?
-[RESUME](https://www.notion.so/e9f68fa82a5d4bafba8b1e9e930d23a4) (korean)
+[RESUME](https://github.com/DPS0340/DPS0340/blob/master/resume-jiholee.pdf) (korean)
 
 ## Individual Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=dracula)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=dracula)](https://github.com/DPS0340/ExpoCrudBoard) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=DQNDemo&theme=dracula)](https://github.com/DPS0340/DQNDemo)
