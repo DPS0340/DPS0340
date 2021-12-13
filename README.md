@@ -2,9 +2,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&show_icons=true&theme=dracula)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891)
-
-[![Jiho Lee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11853111&layout=compact&theme=dark)](https://stackoverflow.com/users/11853111/jiho-lee)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891) [![Jiho Lee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11853111&layout=compact&theme=dark)](https://stackoverflow.com/users/11853111/jiho-lee)
 
 ## Who am I?
 [RESUME](https://github.com/DPS0340/DPS0340/blob/master/resume-jiholee.pdf) (korean)
