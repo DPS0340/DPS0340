@@ -1,5 +1,7 @@
 ### Hi 👋 I'm Jiho Lee!
 
+[![wakatime](https://wakatime.com/badge/user/9de25f4f-c88f-4413-beaa-30045b830f19.svg)](https://wakatime.com/@9de25f4f-c88f-4413-beaa-30045b830f19)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&show_icons=true&theme=dracula)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891) [![Jiho Lee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11853111&layout=compact&theme=dark)](https://stackoverflow.com/users/11853111/jiho-lee)
