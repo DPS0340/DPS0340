@@ -6,8 +6,8 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891) [![Jiho Lee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11853111&layout=compact&theme=dark)](https://stackoverflow.com/users/11853111/jiho-lee)
 
-## Who am I?
-[Korean RESUME](https://jiho-lee.notion.site/jiho-lee-e364b40b7e1f46648c5144b3be1d7f5d)
+## Resume
+[English](https://jiho-lee.notion.site/Jiho-Lee-810bfaae29d049babe2223afe8c54d9a) | [Korean](https://jiho-lee.notion.site/jiho-lee-e364b40b7e1f46648c5144b3be1d7f5d)
 
 ## Individual Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=dracula)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=dracula)](https://github.com/DPS0340/ExpoCrudBoard)
