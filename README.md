@@ -28,4 +28,6 @@
 ```
 Phone: +82 1038210996
 Email: optional.int@kakao.com
+
+I prefer email. feel free to contact me.
 ```
