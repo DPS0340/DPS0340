@@ -26,6 +26,6 @@
 ## Contacts
 
 ```
-Phone: +821038210996
+Phone: +82 1038210996
 Email: optional.int@kakao.com
 ```
