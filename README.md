@@ -12,10 +12,6 @@
 ## Individual Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=dracula)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=dracula)](https://github.com/DPS0340/ExpoCrudBoard)
 
-## Recent PoCs
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=acorn-random&theme=dracula)](https://github.com/DPS0340/acorn-random) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=params-to-querydsl-example&theme=dracula)](https://github.com/DPS0340/params-to-querydsl-example)
-
 ## Team Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DPS0340&repo=DjangoCRUDBoard&theme=dracula)](https://github.com/DPS0340/DjangoCRUDBoard)
