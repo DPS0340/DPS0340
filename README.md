@@ -18,6 +18,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenend-KPU&repo=LBS-Platform&theme=dracula)](https://github.com/Lenend-KPU/LBS-Platform)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Join2Gather&repo=WeMeet&theme=dracula)](https://github.com/Join2Gather/WeMeet)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamE9uana&repo=DeepMush&theme=dracula)](https://github.com/TeamE9uana/DeepMush)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-frontend&theme=dracula)](https://github.com/techeer-f5/jmt-monster-frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-backend&theme=dracula)](https://github.com/techeer-f5/jmt-monster-backend)
 
 ## Contacts
 
