@@ -1,7 +1,10 @@
 [![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=Jiho%20Lee&fontSize=70&animation=twinkling)](https://github.com/DPS0340)
 
+---
 
 <h3 align="center">SW Maestro 13th - So1s Team Leader</h3>
+
+---
 
 ## Stats
 
@@ -34,5 +37,6 @@ Email: optional.int@kakao.com
 
 I prefer email. feel free to contact me.
 ```
+---
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=footer&%20render&fontSize=70"/>
