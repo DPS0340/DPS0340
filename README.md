@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Jiho%20Lee&fontSize=70&animation=twinkling)](https://www.github.com/DPS0340)
+[![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Jiho%20Lee&fontSize=70&animation=twinkling)](https://github.com/DPS0340)
 
 
 <h3 align="center">SW Maestro 13th - So1s Team Leader</h3>
