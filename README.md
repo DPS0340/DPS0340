@@ -1,4 +1,9 @@
-### Hi 👋 I'm Jiho Lee!
+[![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Jiho%20Lee&fontSize=70&animation=twinkling)](https://www.github.com/KiRist-code)
+
+
+<h3 align="center">SW Maestro 13th - So1s Team Leader</h3>
+
+## Stats
 
 [![wakatime](https://wakatime.com/badge/user/9de25f4f-c88f-4413-beaa-30045b830f19.svg)](https://wakatime.com/@9de25f4f-c88f-4413-beaa-30045b830f19)
 
