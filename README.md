@@ -1,14 +1,9 @@
-[![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Jiho%20Lee&fontSize=70&animation=twinkling)](https://github.com/DPS0340)
+[![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=Jiho%20Lee&fontSize=70&animation=twinkling)](https://github.com/DPS0340)
 
 
 <h3 align="center">SW Maestro 13th - So1s Team Leader</h3>
 
 ## Stats
-
-<a align="center" href="https://hits.seeyoufarm.com">
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdps0340&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</a>
-
 
 [![wakatime](https://wakatime.com/badge/user/9de25f4f-c88f-4413-beaa-30045b830f19.svg)](https://wakatime.com/@9de25f4f-c88f-4413-beaa-30045b830f19)
 
@@ -40,4 +35,4 @@ Email: optional.int@kakao.com
 I prefer email. feel free to contact me.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&section=footer&%20render&fontSize=70"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=footer&%20render&fontSize=70"/>
