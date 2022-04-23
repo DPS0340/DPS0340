@@ -7,7 +7,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/9de25f4f-c88f-4413-beaa-30045b830f19.svg)](https://wakatime.com/@9de25f4f-c88f-4413-beaa-30045b830f19)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&show_icons=truehide_border=true&bg_color=00000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&hide=contribs&show_icons=truehide_border=true&bg_color=00000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891)
 
