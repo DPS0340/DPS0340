@@ -14,6 +14,10 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891)
 
+## Self-Introduction
+
+[Korean](https://jiho-lee.notion.site/fc9da9c379b54a228260108b9629cca2)
+
 ## Resume
 [English](https://jiho-lee.notion.site/Jiho-Lee-810bfaae29d049babe2223afe8c54d9a) | [Korean](https://jiho-lee.notion.site/jiho-lee-e364b40b7e1f46648c5144b3be1d7f5d)
 
