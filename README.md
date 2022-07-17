@@ -29,11 +29,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-frontend&bg_color=00000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/techeer-f5/jmt-monster-frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-backend&bg_color=00000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/techeer-f5/jmt-monster-backend)
 
-## Contributed To
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=rfcs&bg_color=00000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/reactjs/rfcs)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cheese10yun&repo=dev-info&bg_color=00000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/cheese10yun/dev-info)
-
 ## Contacts
 
 ```
