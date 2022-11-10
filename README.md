@@ -59,10 +59,27 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter
     .ossssssssssssssssssdMMMNysssso.       GPU: NVIDIA GeForce RTX 3080 
       -+sssssssssssssssssyyyssss+-         Memory: 9866MiB / 64232MiB 
         `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.                                       
-                                                                   
+            .-/+oossssoo+/-.                                                                         
 ```
+
 ```
+                    'c.          lee@jihos-MacBook-Pro.local 
+                 ,xNMM.          --------------------------- 
+               .OMMMMo           OS: macOS 13.0 22A380 arm64 
+               OMMM0,            Host: MacBookPro18,1 
+     .;loddo:' loolloddol;.      Kernel: 22.1.0 
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 1 day, 15 hours, 20 mins 
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 179 (brew) 
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.8.1 
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1728x1117 
+:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua 
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Quartz Compositor 
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blue (Dark) 
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal: vscode 
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   CPU: Apple M1 Pro 
+    kMMMMMMMMMMMMMMMMMMMMMMd     GPU: Apple M1 Pro 
+     ;KMMMMMMMWXXWMMMMMMMk.      Memory: 2867MiB / 16384MiB 
+       .cooc,.    .,coo:.                                     
 ```
 ---
 
