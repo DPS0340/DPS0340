@@ -32,6 +32,37 @@
 ```
 Phone: +82) 1038210996
 Email: optional.int@kakao.com
+Pronouns: He/Him
+```
+
+## Dev Envs
+
+I use mainly two machines.
+
+```
+            .-/+oossssoo+/-.               dps0340@dps0340-MS-7B89 
+        `:+ssssssssssssssssss+:`           ----------------------- 
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04.1 LTS x86_64 
+    .ossssssssssssssssssdMMMNysssso.       Host: MS-7B89 2.0 
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.15.0-52-generic 
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 9 mins 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 2981 (dpkg), 51 (brew), 15 (flatpak), 20 (snap) 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: zsh 5.8.1 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 5120x2880 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: Unity 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Adwaita 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Yaru-dark [GTK2/3] 
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: Yaru [GTK2/3] 
+  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: vscode 
+   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: AMD Ryzen 5 3600 (12) @ 3.600GHz 
+    .ossssssssssssssssssdMMMNysssso.       GPU: NVIDIA GeForce RTX 3080 
+      -+sssssssssssssssssyyyssss+-         Memory: 9866MiB / 64232MiB 
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.                                       
+                                                                   
+```
+```
 ```
 ---
 
