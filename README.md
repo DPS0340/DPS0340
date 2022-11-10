@@ -46,7 +46,7 @@ I use mainly two machines.
     .ossssssssssssssssssdMMMNysssso.       Host: MS-7B89 2.0 
    /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.15.0-52-generic 
   +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 9 mins 
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 2981 (dpkg), 51 (brew), 15 (flatpak), 20 (snap) 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 2981 (dpkg), 51 (brew), 15 (flatpak), 20 (snap)
 .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: zsh 5.8.1 
 +sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 5120x2880 
 ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: Unity 
