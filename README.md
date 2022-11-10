@@ -17,7 +17,10 @@
 ## CV
 [Korean](https://jiho-lee.notion.site/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
-## Projects
+## Individual Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/DPS0340/ExpoCrudBoard)
+
+## Team Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=deploy&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/So1s/deploy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=infra&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/So1s/infra)
