@@ -35,52 +35,6 @@ Email: optional.int@kakao.com
 Pronouns: He/Him
 ```
 
-## Dev Envs
-
-I use mainly two machines.
-
-```
-            .-/+oossssoo+/-.               dps0340@dps0340-MS-7B89 
-        `:+ssssssssssssssssss+:`           ----------------------- 
-      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04.1 LTS x86_64 
-    .ossssssssssssssssssdMMMNysssso.       Host: MS-7B89 2.0 
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.15.0-52-generic 
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 9 mins 
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 2981 (dpkg), 51 (brew), 15 (flatpak), 20 (snap)
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: zsh 5.8.1 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 5120x2880 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: Unity 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Adwaita 
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Yaru-dark [GTK2/3] 
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: Yaru [GTK2/3] 
-  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: vscode 
-   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: AMD Ryzen 5 3600 (12) @ 3.600GHz 
-    .ossssssssssssssssssdMMMNysssso.       GPU: NVIDIA GeForce RTX 3080 
-      -+sssssssssssssssssyyyssss+-         Memory: 9866MiB / 64232MiB 
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.                                                                         
-```
-
-```
-                    'c.          lee@jihos-MacBook-Pro.local 
-                 ,xNMM.          --------------------------- 
-               .OMMMMo           OS: macOS 13.0 22A380 arm64 
-               OMMM0,            Host: MacBookPro18,1 
-     .;loddo:' loolloddol;.      Kernel: 22.1.0 
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 1 day, 15 hours, 20 mins 
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 179 (brew) 
- XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.8.1 
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1728x1117 
-:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua 
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Quartz Compositor 
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blue (Dark) 
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal: vscode 
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   CPU: Apple M1 Pro 
-    kMMMMMMMMMMMMMMMMMMMMMMd     GPU: Apple M1 Pro 
-     ;KMMMMMMMWXXWMMMMMMMk.      Memory: 2867MiB / 16384MiB 
-       .cooc,.    .,coo:.                                     
-```
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=footer&%20render&fontSize=70"/>
