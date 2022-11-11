@@ -32,6 +32,7 @@
 ```
 Phone: +82) 1038210996
 Email: optional.int@kakao.com
+Discord: DPS0340#0340 (Small talk only)
 Pronouns: He/Him
 ```
 
