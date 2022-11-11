@@ -14,7 +14,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891)
 
-## CV
+## Resume
 [Korean](https://jiho-lee.notion.site/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
 ## Individual Projects
