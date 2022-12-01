@@ -10,7 +10,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/9de25f4f-c88f-4413-beaa-30045b830f19.svg)](https://wakatime.com/@9de25f4f-c88f-4413-beaa-30045b830f19)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&hide=contribs&count_private=true&show_icons=true&bg_color=00000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&hide=contribs&count_private=true&show_icons=true&theme=radical)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891)
 
@@ -20,21 +20,21 @@
 
 ## Individual Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/DPS0340/ExpoCrudBoard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=radical)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=radical)](https://github.com/DPS0340/ExpoCrudBoard)
 
 ## Team Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-frontend&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/techeer-f5/jmt-monster-frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-backend&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/techeer-f5/jmt-monster-backend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenend-KPU&repo=LBS-Platform&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/Lenend-KPU/LBS-Platform)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Join2Gather&repo=WeMeet&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/Join2Gather/WeMeet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-frontend&theme=radical)](https://github.com/techeer-f5/jmt-monster-frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-backend&theme=radical)](https://github.com/techeer-f5/jmt-monster-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenend-KPU&repo=LBS-Platform&theme=radical)](https://github.com/Lenend-KPU/LBS-Platform)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Join2Gather&repo=WeMeet&theme=radical)](https://github.com/Join2Gather/WeMeet)
 
 ## SW Maestro
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=frontend&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/So1s/frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=backend&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/So1s/backend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=deploy&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/So1s/deploy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=infra&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/So1s/infra)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=frontend&theme=radical)](https://github.com/So1s/frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=backend&theme=radical)](https://github.com/So1s/backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=deploy&theme=radical)](https://github.com/So1s/deploy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=infra&theme=radical)](https://github.com/So1s/infra)
 
 ## Contacts
 
