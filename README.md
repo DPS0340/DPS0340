@@ -24,10 +24,10 @@
 
 ## Team Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenend-KPU&repo=LBS-Platform&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/Lenend-KPU/LBS-Platform)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Join2Gather&repo=WeMeet&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/Join2Gather/WeMeet)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-frontend&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/techeer-f5/jmt-monster-frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-backend&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/techeer-f5/jmt-monster-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenend-KPU&repo=LBS-Platform&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/Lenend-KPU/LBS-Platform)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Join2Gather&repo=WeMeet&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/Join2Gather/WeMeet)
 
 ## SW Maestro
 
