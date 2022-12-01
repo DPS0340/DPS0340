@@ -7,7 +7,8 @@
 ---
 
 ## Resume
-[Korean](https://jiho-lee.notion.site/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
+
+[Korean Resume](https://jiho-lee.notion.site/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
 ## Stats
 
@@ -18,6 +19,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/a891)
 
 ## Individual Projects
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/DPS0340/ExpoCrudBoard)
 
 ## Team Projects
@@ -28,6 +30,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-backend&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/techeer-f5/jmt-monster-backend)
 
 ## SW Maestro
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=frontend&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/So1s/frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=backend&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/So1s/backend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=deploy&bg_color=000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)](https://github.com/So1s/deploy)
