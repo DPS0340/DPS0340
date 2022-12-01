@@ -35,7 +35,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=backend&theme=radical)](https://github.com/so1s/so1s-backend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=deploy&theme=radical)](https://github.com/so1s/so1s-deploy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=infra&theme=radical)](https://github.com/so1s/so1s-infra)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=infra&theme=radical)](https://github.com/so1s/so1s-load-testing)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=so1s-load-testing&theme=radical)](https://github.com/so1s/so1s-load-testing)
 
 ## Contacts
 
