@@ -31,10 +31,11 @@
 
 ## SW Maestro
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=frontend&theme=radical)](https://github.com/So1s/frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=backend&theme=radical)](https://github.com/So1s/backend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=deploy&theme=radical)](https://github.com/So1s/deploy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=infra&theme=radical)](https://github.com/So1s/infra)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=frontend&theme=radical)](https://github.com/so1s/so1s-frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=backend&theme=radical)](https://github.com/so1s/so1s-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=deploy&theme=radical)](https://github.com/so1s/so1s-deploy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=infra&theme=radical)](https://github.com/so1s/so1s-infra)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=So1s&repo=infra&theme=radical)](https://github.com/so1s/so1s-load-testing)
 
 ## Contacts
 
