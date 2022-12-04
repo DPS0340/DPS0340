@@ -20,7 +20,7 @@
 
 ## Individual Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=radical)](https://github.com/DPS0340/YTStream) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=radical)](https://github.com/DPS0340/ExpoCrudBoard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=radical)](https://github.com/DPS0340/ExpoCrudBoard) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=radical)](https://github.com/DPS0340/YTStream)
 
 ## Team Projects
 
