@@ -20,7 +20,7 @@
 
 ## Individual Works
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=radical)](https://github.com/DPS0340/ExpoCrudBoard) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=CleanerBot&theme=radical)](https://github.com/DPS0340/CleanerBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=radical)](https://github.com/DPS0340/ExpoCrudBoard) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=CleanerBot&theme=radical&a=b)](https://github.com/DPS0340/CleanerBot)
 
 ## Team Projects
 
