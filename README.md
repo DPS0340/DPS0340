@@ -18,7 +18,7 @@
 
 [Korean Resume](https://jiho-lee.notion.site/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
-## Individual Projects
+## Individual Works
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=radical)](https://github.com/DPS0340/ExpoCrudBoard) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=YTStream&theme=radical)](https://github.com/DPS0340/YTStream)
 
