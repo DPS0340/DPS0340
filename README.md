@@ -15,7 +15,7 @@
 
 ## Resume
 
-[Korean Resume](https://jiho-lee.notion.site/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
+[**한국어 이력서**](https://jiho-lee.notion.site/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
 ## Individual Works
 
