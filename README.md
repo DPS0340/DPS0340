@@ -10,8 +10,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/9de25f4f-c88f-4413-beaa-30045b830f19.svg)](https://wakatime.com/@9de25f4f-c88f-4413-beaa-30045b830f19)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/profile/a891)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&hide=contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/DPS0340)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/profile/a891)
 
 ## Resume
 
