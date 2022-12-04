@@ -23,10 +23,10 @@
 
 ## Team Projects
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenend-KPU&repo=LBS-Platform&theme=radical&a=b)](https://github.com/Lenend-KPU/LBS-Platform)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Join2Gather&repo=WeMeet&theme=radical)](https://github.com/Join2Gather/WeMeet)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-frontend&theme=radical)](https://github.com/techeer-f5/jmt-monster-frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-backend&theme=radical)](https://github.com/techeer-f5/jmt-monster-backend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenend-KPU&repo=LBS-Platform&theme=radical)](https://github.com/Lenend-KPU/LBS-Platform)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Join2Gather&repo=WeMeet&theme=radical)](https://github.com/Join2Gather/WeMeet)
 
 ## SW Maestro
 
