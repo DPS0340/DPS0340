@@ -37,8 +37,8 @@
 
 ## Contributed Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=rfcs&theme=radical)](https://github.com/reactjs/rfcs)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=project-violet&repo=violet&theme=radical)](https://github.com/project-violet/violet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=rfcs&theme=radical&show_owner=true)](https://github.com/reactjs/rfcs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=project-violet&repo=violet&theme=radical&show_owner=true)](https://github.com/project-violet/violet)
 
 
 ## Contacts
