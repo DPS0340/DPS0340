@@ -17,14 +17,10 @@
 
 [**한국어 이력서**](https://jiho-lee.notion.site/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
-## Contributed Works
+## Contributed To
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=rfcs&theme=radical&show_owner=true)](https://github.com/reactjs/rfcs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=project-violet&repo=violet&theme=radical&show_owner=true)](https://github.com/project-violet/violet)
-
-## Individual Works
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=ExpoCrudBoard&theme=radical)](https://github.com/DPS0340/ExpoCrudBoard) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dps0340&repo=CleanerBot&theme=radical&a=b)](https://github.com/DPS0340/CleanerBot)
 
 ## Team Projects
 
