@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&section=header&text=DPS0340&fontSize=70&animation=twinkling)](https://github.com/DPS0340)
+[![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=120&section=header&text=DPS0340&fontSize=50&animation=twinkling)](https://github.com/DPS0340)
 
 ---
 
@@ -45,4 +45,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&section=footer&%20render&fontSize=70"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=120&section=footer&%20render&fontSize=70"/>
