@@ -6,16 +6,16 @@
 
 ---
 
+## Resume
+
+[**한국어 이력서**](https://jiho-lee.notion.site/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
+
 ## Stats
 
 [![wakatime](https://wakatime.com/badge/user/9de25f4f-c88f-4413-beaa-30045b830f19.svg)](https://wakatime.com/@DPS0340)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=DPS0340&hide=contribs&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/DPS0340)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/profile/a891)
-
-## Resume
-
-[**한국어 이력서**](https://jiho-lee.notion.site/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
 ## Contributed To
 
