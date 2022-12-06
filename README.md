@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=DPS0340&fontSize=70&animation=twinkling)](https://github.com/DPS0340)
+[![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=DPS0340&fontColor=FFE1E1&fontSize=70&animation=fadeIn)](https://github.com/DPS0340)
 
 ---
 
