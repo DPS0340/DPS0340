@@ -6,10 +6,6 @@
 
 ---
 
-## Resume
-
-[**한국어 이력서**](https://jiho-lee.notion.site/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
-
 ## Stats
 
 [![wakatime](https://wakatime.com/badge/user/9de25f4f-c88f-4413-beaa-30045b830f19.svg)](https://wakatime.com/@DPS0340)
@@ -35,6 +31,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=infra&theme=radical)](https://github.com/so1s/so1s-infra)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=frontend&theme=radical)](https://github.com/so1s/so1s-frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=so1s&repo=backend&theme=radical)](https://github.com/so1s/so1s-backend)
+
+
+## Resume
+
+[**한국어 이력서**](https://jiho-lee.notion.site/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
 ## Contacts
 
