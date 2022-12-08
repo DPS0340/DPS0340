@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=DPS0340&fontColor=FFE1E1&fontSize=70&animation=fadeIn)](https://github.com/DPS0340)
+[![Header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=DPS0340&fontColor=FFE1E1&fontSize=70&animation=fadeIn)](https://github.com/DPS0340)
 
 ---
 
@@ -6,10 +6,10 @@
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/9de25f4f-c88f-4413-beaa-30045b830f19.svg)](https://wakatime.com/@DPS0340)
+[![Wakatime](https://wakatime.com/badge/user/9de25f4f-c88f-4413-beaa-30045b830f19.svg)](https://wakatime.com/@DPS0340)
 
-[![Github Stats](https://github-readme-stats-dps0340.vercel.app/api?username=DPS0340&hide=contribs&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/DPS0340)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/profile/a891)
+[![Github Stats](https://github-readme-stats-dps0340.vercel.app/api?username=DPS0340&hide=contribs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=DPS0340's%20Github%20Stats)](https://github.com/DPS0340)
+[![Solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/profile/a891)
 
 ## Resume
 
