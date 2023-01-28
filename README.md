@@ -1,18 +1,20 @@
-### Summary
+### About
 
  - [Résumé (Korean)](https://jiho-lee.notion.site/jiho-lee/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
-### Interest
+### Interests
 
  - advanced backend topics for production
  - devops culture & kubernetes
- - modern frontend system
+ - modern frontend systems
 
-### Etc Interest
+### Etc Interests
 
+ - startup culture
  - practical communication skills
  - quantified self & psychological resilience
  - avoiding bad decisions
+ - constraints for perfection
 
 ### Contacts
 
