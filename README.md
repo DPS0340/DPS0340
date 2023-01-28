@@ -13,8 +13,8 @@
  - startup culture
  - practical communication skills
  - avoiding bad decisions
- - constraints for perfection
  - learning by doing
+ - constraints for perfection
 
 ### Contacts
 
