@@ -12,7 +12,6 @@
 
  - startup culture
  - practical communication skills
- - quantified self & psychological resilience
  - avoiding bad decisions
  - constraints for perfection
 
