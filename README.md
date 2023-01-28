@@ -1,6 +1,6 @@
 ### Summary
 
- - [Resume](https://jiho-lee.notion.site/jiho-lee/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
+ - [Résumé (Korean)](https://jiho-lee.notion.site/jiho-lee/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
 ### Interest
 
