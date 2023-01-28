@@ -8,7 +8,7 @@
  - devops culture & kubernetes
  - modern frontend systems
 
-### Etc Interests
+### Other Interests
 
  - startup culture
  - practical communication skills
