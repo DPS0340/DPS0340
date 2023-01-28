@@ -14,6 +14,7 @@
  - practical communication skills
  - avoiding bad decisions
  - constraints for perfection
+ - learning by doing
 
 ### Contacts
 
