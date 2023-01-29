@@ -12,8 +12,8 @@
 ### Other Interests
 
  - startup culture
- - practical communication skills
- - avoiding bad decisions
+ - practical communication skills (mainly sales & convince)
+ - avoiding bad decisions with post-morterm
  - constraining for perfection
 
 ### Contacts
