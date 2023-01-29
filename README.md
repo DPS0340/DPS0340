@@ -7,13 +7,13 @@
  - advanced backend topics for production
  - devops culture & kubernetes
  - modern frontend systems
+ - ML(Ops) systems
 
 ### Other Interests
 
  - startup culture
  - practical communication skills
  - avoiding bad decisions
- - learning by doing
  - constraining for perfection
 
 ### Contacts
