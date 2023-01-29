@@ -5,7 +5,7 @@
 ### Interests
 
  - advanced backend topics for production
- - devops culture & kubernetes
+ - devops systems using kubernetes
  - modern frontend systems
  - ML(Ops) systems
 
