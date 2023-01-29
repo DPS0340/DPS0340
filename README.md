@@ -11,7 +11,7 @@
 
 ### Other Interests
 
- - pre-seed startup infrastructure
+ - pre-seed startup infrastructure / architecture
  - startup culture
  - practical communication skills (mainly sales & convincing)
  - avoiding bad decisions with post-morterm
