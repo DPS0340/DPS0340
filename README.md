@@ -22,3 +22,10 @@
 - Phone: +82) 1038210996
 - Email: optional.int@kakao.com
 - LinkedIn: https://www.linkedin.com/in/dps0340
+
+### Stats
+
+[![Wakatime](https://wakatime.com/badge/user/9de25f4f-c88f-4413-beaa-30045b830f19.svg)](https://wakatime.com/@DPS0340)
+
+[![Profile Image](https://github-readme-stats-dps0340.vercel.app/api?username=DPS0340&hide=contribs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=DPS0340's%20Github%20Stats)](https://github.com/DPS0340)
+[![Solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/profile/a891)
