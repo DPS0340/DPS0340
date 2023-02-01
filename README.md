@@ -11,7 +11,8 @@
 
 ### Interests
 
- - advanced backend topics for production
+ - backend systems using spring boot
+ - object-oriented analysis and design
  - devops systems using kubernetes
  - modern frontend systems
  - ML(Ops) systems
