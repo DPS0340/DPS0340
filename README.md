@@ -18,8 +18,6 @@
 
 ### Other Interests
 
- - startup culture
- - startup infrastructure / architecture
  - practical communication skills
  - avoiding bad decisions using post-morterm
  - constraining for perfection
