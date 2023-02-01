@@ -21,7 +21,7 @@
  - startup culture
  - startup infrastructure / architecture
  - practical communication skills
- - avoiding bad decisions with post-morterm
+ - avoiding bad decisions using post-morterm
  - constraining for perfection
 
 ### Contacts
