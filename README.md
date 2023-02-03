@@ -11,17 +11,17 @@
 
 ### Interests
 
- - backend systems using spring boot
- - object-oriented analysis and design
- - devops systems using kubernetes
- - modern frontend systems
- - ML(Ops) systems
+- Backend systems using Spring Boot
+- Object-oriented analysis and design
+- DevOps systems using Kubernetes
+- Modern frontend systems
+- ML(Ops) systems
 
 ### Other Interests
 
- - practical communication skills
- - avoiding bad decisions using post-morterm
- - constraining for perfection
+- Practical communication skills
+- Avoiding bad decisions using post-mortem
+- Constraining for perfection
 
 ### Contacts
 
