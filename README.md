@@ -13,10 +13,8 @@
 ### Interests
 
 - Backend systems using Spring Boot
-- Object-oriented analysis and design
-- DevOps systems using Kubernetes
+- Infrastructure as Code systems using Kubernetes
 - Modern frontend systems
-- ML(Ops) systems
 
 ### Other Interests
 
