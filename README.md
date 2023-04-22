@@ -1,5 +1,6 @@
 ### About
 
+ - DevOps Enginner @ Mondrian AI
  - [Résumé (Korean)](https://jiho-lee.notion.site/jiho-lee/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
 ### Stats
