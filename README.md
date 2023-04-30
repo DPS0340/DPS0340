@@ -21,9 +21,9 @@
 
 - Practical communication skills
 - Avoiding bad decisions using post-mortem
-- Constraining for perfection
-- Hacker Culture
 - Sustainable Software Development
+- Hacker Culture
+- Constraining for perfection
 
 ### Contacts
 
