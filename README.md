@@ -13,8 +13,8 @@
 
 ### Interests
 
-- Adequate Infrastructrue for Startup
 - Infrastructure as Code systems using Kubernetes
+- Adequate Infrastructrue for Startup
 - Leveraging Productivity using Software, especially CLI / Scripting
 
 ### Other Interests
