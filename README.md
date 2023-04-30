@@ -13,15 +13,16 @@
 
 ### Interests
 
-- Backend systems using Spring Boot
+- Adequate Infrastructrue for Startup
 - Infrastructure as Code systems using Kubernetes
-- Modern frontend systems
+- Leveraging Productivity using Software, especially CLI / Scripting
 
 ### Other Interests
 
 - Practical communication skills
 - Avoiding bad decisions using post-mortem
 - Constraining for perfection
+- Hacker Culture
 
 ### Contacts
 
