@@ -23,6 +23,7 @@
 - Avoiding bad decisions using post-mortem
 - Constraining for perfection
 - Hacker Culture
+- Sustainable Software Development
 
 ### Contacts
 
