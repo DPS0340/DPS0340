@@ -19,6 +19,7 @@
 
 ### Other Interests
 
+- Leveraging Productivity using Hardware
 - Practical communication skills
 - Avoiding bad decisions using post-mortem
 - Sustainable Software Development
