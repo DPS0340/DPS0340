@@ -2,7 +2,7 @@
 
  - DevOps Enginner @ Mondrian AI
  - SW Maestro 13th - So1s Team Leader
- - [Résumé (Korean)](https://jiho-lee.notion.site/jiho-lee/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
+ - [Korean Résumé (한국어 이력서)](https://jiho-lee.notion.site/jiho-lee/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
 ### Stats
 
