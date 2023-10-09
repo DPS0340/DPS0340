@@ -3,6 +3,7 @@
  - DevOps Enginner @ Mondrian AI
  - SW Maestro 13th - So1s Team Leader
  - [Korean Résumé (한국어 이력서)](https://jiho-lee.notion.site/jiho-lee/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
+ - [Stack Overflow](https://stackoverflow.com/users/11853111/jiho-lee)
 
 ### Stats
 
@@ -11,6 +12,8 @@
 [![Profile Image](https://github-readme-stats-dps0340.vercel.app/api?username=DPS0340&hide=contribs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=DPS0340's%20Github%20Stats&cache_seconds=86400)](https://github.com/DPS0340)
 
 [![Solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/profile/a891)
+
+[![Stack Overflow Profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/11853111?theme=dark)](https://stackoverflow.com/users/11853111/jiho-lee)
 
 ### Interests
 
