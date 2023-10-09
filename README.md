@@ -36,6 +36,6 @@
 - LinkedIn: https://www.linkedin.com/in/dps0340
 
 ### Links
- - [Wakatime]([https://stackoverflow.com/users/11853111/jiho-lee](https://wakatime.com/@DPS0340))
+ - [Wakatime](https://wakatime.com/@DPS0340)
  - [Solved.ac](https://solved.ac/profile/a891)
  - [Stack Overflow](https://stackoverflow.com/users/11853111/jiho-lee)
