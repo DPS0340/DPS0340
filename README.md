@@ -3,7 +3,6 @@
  - DevOps Enginner @ Mondrian AI
  - SW Maestro 13th - So1s Team Leader
  - [Korean Résumé (한국어 이력서)](https://jiho-lee.notion.site/jiho-lee/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
- - [Stack Overflow](https://stackoverflow.com/users/11853111/jiho-lee)
 
 ### Stats
 
@@ -35,3 +34,8 @@
 - Phone: +82) 1038210996
 - Email: optional.int@kakao.com
 - LinkedIn: https://www.linkedin.com/in/dps0340
+
+### Links
+ - [Wakatime]([https://stackoverflow.com/users/11853111/jiho-lee](https://wakatime.com/@DPS0340))
+ - [Solved.ac](https://solved.ac/profile/a891)
+ - [Stack Overflow](https://stackoverflow.com/users/11853111/jiho-lee)
