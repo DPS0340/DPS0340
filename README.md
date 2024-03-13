@@ -17,7 +17,7 @@
 
 ### Interests
 
-- Infrastructure as Code systems using Kubernetes
+- MLOps on Enterprise
 - Adequate Infrastructrue for Growing Company
 - Leveraging Productivity using Software, especially CLI / Scripting
 
