@@ -11,6 +11,6 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        env:
+        with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CREDLY_USER: jiho-lee.fbff17e9
