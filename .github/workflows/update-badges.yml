@@ -3,6 +3,7 @@ name: Update badges
 on:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with badges
