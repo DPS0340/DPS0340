@@ -1,10 +1,12 @@
-### About
-
 <!--START_SECTION:badges-->
-[![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/110x110/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](http://www.credly.com/badges/668c3160-bc6e-43e4-bd3f-5484363b8e12 "CKS: Certified Kubernetes Security Specialist")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/3be9db0e-9109-494b-84bb-9f552c8e9472 "CKAD: Certified Kubernetes Application Developer")
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/e664cecd-f9eb-4d34-81cd-5929e2f02525 "CKA: Certified Kubernetes Administrator")
+<p align="center">
+  <a href="http://www.credly.com/badges/668c3160-bc6e-43e4-bd3f-5484363b8e12" target="_blank"><img src="https://training.linuxfoundation.org/wp-content/uploads/2020/07/kubernetes-security-specialist-logo-300x285.png" alt="CKS: Certified Kubernetes Security Specialist" width="110" height="110"></a>
+  <a href="http://www.credly.com/badges/e664cecd-f9eb-4d34-81cd-5929e2f02525" target="_blank"><img src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png" alt="CKA: Certified Kubernetes Administrator" width="110" height="110"></a>
+  <a href="http://www.credly.com/badges/3be9db0e-9109-494b-84bb-9f552c8e9472" target="_blank"><img src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png" alt="CKAD: Certified Kubernetes Application Developer" width="110" height="110"></a>
+</p>
 <!--END_SECTION:badges-->
+
+### About
 
  - DevOps Engineer @ Mondrian AI
  - So1s Team Leader @ SW Maestro 13th
