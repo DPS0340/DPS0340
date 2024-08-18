@@ -8,6 +8,7 @@
 ### Stats
 
 <!--START_SECTION:badges-->
+[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/fbf68b62-d30c-40c9-9014-e315e5a71b36 "KCNA: Kubernetes and Cloud Native Associate")
 [![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/110x110/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](http://www.credly.com/badges/668c3160-bc6e-43e4-bd3f-5484363b8e12 "CKS: Certified Kubernetes Security Specialist")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/3be9db0e-9109-494b-84bb-9f552c8e9472 "CKAD: Certified Kubernetes Application Developer")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/e664cecd-f9eb-4d34-81cd-5929e2f02525 "CKA: Certified Kubernetes Administrator")
