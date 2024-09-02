@@ -3,7 +3,7 @@
  - DevOps Engineer @ Mondrian AI
  - So1s Team Leader @ SW Maestro 13th
  - Certified Kubernetes Security Specialist / Administrator / Application Developer
- - Kubernetes and Cloud Native Associate
+ - Kubernetes and Cloud Native Security Associate / Kubernetes and Cloud Native Associate
  - [Korean Résumé (한국어 이력서)](https://jiho-lee.notion.site/jiho-lee/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
 ### Stats
