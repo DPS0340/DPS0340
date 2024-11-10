@@ -22,8 +22,6 @@
 
 [![Solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/profile/a891)
 
-[![Stack Overflow Profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/11853111?theme=dark)](https://stackoverflow.com/users/11853111/jiho-lee)
-
 ### Interests
 
 - MLOps on Enterprise
