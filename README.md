@@ -2,7 +2,7 @@
 
  - DevOps Engineer @ Mondrian AI
  - So1s Team Leader @ SW Maestro 13th
- - Kubestronaut
+ - [Kubestronaut](https://www.cncf.io/training/kubestronaut/?p=jiho-lee)
  - [Korean Résumé (한국어 이력서)](https://jiho-lee.notion.site/jiho-lee/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
 ### Stats
