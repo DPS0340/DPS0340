@@ -45,6 +45,7 @@
 - Phone: +82) 1038210996
 - Email: optional.int (at) kakao.com
 - LinkedIn: https://www.linkedin.com/in/dps0340
+- Telegram: https://t.me/DPS0340
 
 ### Links
  - [Wakatime](https://wakatime.com/@DPS0340)
