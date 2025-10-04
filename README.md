@@ -33,7 +33,8 @@ Guys, know me before? :) lol
 
 ### Donation
 
-(TBD)
+Bitcoin:
+bc1q7lm0lt3xlu6mdy7m3ck0zchkya88w4qz6xhut5
 
 ### Stats
 
