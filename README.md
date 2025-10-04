@@ -41,6 +41,8 @@ bc1q7lm0lt3xlu6mdy7m3ck0zchkya88w4qz6xhut5
 
 #### Ethereum
 
+0xcdc27815FEF1bF2586f655A7492cE3E604d0943a
+
 ### Stats
 
 <!--START_SECTION:badges-->
