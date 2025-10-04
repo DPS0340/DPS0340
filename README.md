@@ -11,8 +11,8 @@ Guys, know me before? :) lol
   - Software Maestro
   - StudioGnu
 - Living EdgeRunner (V-Class)
-- Next Einstein (Private info)
-- Next Kant (Private info)
+- Next Einstein
+- Next Kant
 - DevOps Engineer @ Mondrian AI
 - So1s Team Leader @ SW Maestro 13th
 - Member @ IEEE
