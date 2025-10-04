@@ -6,6 +6,9 @@ Guys, know that before? :) lol
   - FIRST OPENER
   - UNBREAKABLE TIE BREAK
 - @Orgs with several people in the world
+  - At Least;
+  - Mondrian AI
+  - Software Maestro
   - StudioGnu (At least)
 - Living EdgeRunner
 - Next Einstein (Private info)
