@@ -9,6 +9,7 @@ Guys, know me before? :) lol
   - At Least;
   - Mondrian AI
   - Software Maestro
+  - SlowAnalyst
   - StudioGnu
 - Living EdgeRunner (V-Class)
 - Next Einstein
