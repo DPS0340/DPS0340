@@ -6,6 +6,7 @@ Guys, know me before? :) lol
   - FIRST OPENER
   - UNBREAKABLE TIE BREAK
 - Frontman of Singularity at 2045 -> 2025 Team
+  - Guys, are you at 2025? come with me and play :)
 - @Orgs with several people in the world
   - At Least;
   - StudioGnu
