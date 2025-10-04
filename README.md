@@ -8,6 +8,8 @@ Guys, know that before? :) lol
 - @Orgs with several people in the world
   - StudioGnu (At least)
 - Living EdgeRunner
+- Next Einstein (Private info)
+- Next Kant (Private info)
 - DevOps Engineer @ Mondrian AI
 - So1s Team Leader @ SW Maestro 13th
 - Member @ IEEE
