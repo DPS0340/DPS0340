@@ -9,7 +9,7 @@ Guys, know that before? :) lol
   - At Least;
   - Mondrian AI
   - Software Maestro
-  - StudioGnu (At least)
+  - StudioGnu
 - Living EdgeRunner
 - Next Einstein (Private info)
 - Next Kant (Private info)
