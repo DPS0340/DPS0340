@@ -1,6 +1,6 @@
 ### About
 
-Guys, know that before? :) lol
+Guys, know me before? :) lol
 
 - 2025 GOLDEN DISC OPENER
   - FIRST OPENER
