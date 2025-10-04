@@ -8,6 +8,7 @@ Guys, know me before? :) lol
 - Frontman of Singularity at 2045 -> 2025 Team
 - @Orgs with several people in the world
   - At Least;
+  - StudioGnu
   - GNU
   - Microsoft
   - Apple
@@ -17,7 +18,6 @@ Guys, know me before? :) lol
   - DCInside
   - Software Maestro
   - SlowAnalyst
-  - StudioGnu
   - CNCF
   - Mondrian AI
 - Living EdgeRunner (V-Class)
