@@ -7,6 +7,7 @@ Guys, know that before? :) lol
   - UNBREAKABLE TIE BREAK
 - @Orgs with several people in the world
   - StudioGnu (At least)
+- Living EdgeRunner
 - DevOps Engineer @ Mondrian AI
 - So1s Team Leader @ SW Maestro 13th
 - Member @ IEEE
