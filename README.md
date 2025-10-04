@@ -5,20 +5,34 @@ Guys, know me before? :) lol
 - 2025 GOLDEN DISC OPENER
   - FIRST OPENER
   - UNBREAKABLE TIE BREAK
+- Frontman of Singularity at 2045 -> 2025 Team
 - @Orgs with several people in the world
   - At Least;
-  - Mondrian AI
+  - GNU
+  - Microsoft
+  - Apple
+  - Samsung
+  - LG
+  - Dell
+  - DCInside
   - Software Maestro
   - SlowAnalyst
   - StudioGnu
+  - CNCF
+  - Mondrian AI
 - Living EdgeRunner (V-Class)
 - Next Einstein
 - Next Kant
-- DevOps Engineer @ Mondrian AI
-- So1s Team Leader @ SW Maestro 13th
-- Member @ IEEE
-- [Kubestronaut](https://www.cncf.io/training/kubestronaut/?p=jiho-lee)
-- [Korean Résumé (한국어 이력서)](https://jiho-lee.notion.site/jiho-lee/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
+- Former:
+  - DevOps Engineer @ Mondrian AI
+  - So1s Team Leader @ SW Maestro 13th
+  - Member @ IEEE
+  - [Kubestronaut](https://www.cncf.io/training/kubestronaut/?p=jiho-lee)
+  - [Korean Résumé (한국어 이력서) (Old)](https://jiho-lee.notion.site/jiho-lee/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
+
+### Donation
+
+(TBD)
 
 ### Stats
 
