@@ -5,7 +5,8 @@ Guys, know that before? :) lol
 - 2025 GOLDEN DISC OPENER
   - FIRST OPENER
   - UNBREAKABLE TIE BREAK
-- StudioGnu (At least)
+- @Orgs with several people in the world
+  - StudioGnu (At least)
 - DevOps Engineer @ Mondrian AI
 - So1s Team Leader @ SW Maestro 13th
 - Member @ IEEE
