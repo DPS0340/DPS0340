@@ -10,7 +10,7 @@ Guys, know me before? :) lol
   - Mondrian AI
   - Software Maestro
   - StudioGnu
-- Living EdgeRunner
+- Living EdgeRunner (V-Class)
 - Next Einstein (Private info)
 - Next Kant (Private info)
 - DevOps Engineer @ Mondrian AI
