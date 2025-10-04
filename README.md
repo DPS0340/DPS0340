@@ -33,8 +33,13 @@ Guys, know me before? :) lol
 
 ### Donation
 
-Bitcoin:
+#### Bitcoin
+
+<img width="340" height="340" alt="KakaoTalk_20251005_081129905" src="https://github.com/user-attachments/assets/5de45b2e-e1f9-4431-8dcf-28a0aad666ba" />
+
 bc1q7lm0lt3xlu6mdy7m3ck0zchkya88w4qz6xhut5
+
+#### Ethereum
 
 ### Stats
 
