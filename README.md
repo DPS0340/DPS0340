@@ -1,5 +1,7 @@
 ### About
 
+Guys, know that before? :) lol
+
  - DevOps Engineer @ Mondrian AI
  - So1s Team Leader @ SW Maestro 13th
  - Member @ IEEE
@@ -41,8 +43,6 @@
 - Constraining for perfection
 
 ### Contacts
-
-Guys, know that before? :) lol
 
 - Phone: +82) 1038210996
 - Email: optional.int (at) kakao.com
