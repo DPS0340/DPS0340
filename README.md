@@ -12,6 +12,7 @@ Guys, know me before? :) lol
   - Universe
   - Earth
   - Korea
+  - Seoul National University
   - Tech University of Korea
   - StudioGnu
   - GNU
