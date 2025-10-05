@@ -1,4 +1,4 @@
-ㅅ### About
+### About
 
 Guys, know me before? :) lol
 
