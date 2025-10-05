@@ -2,10 +2,10 @@
 
 Guys, know me before? :) lol
 
-- 2025 GOLDEN DISC OPENER (2025 -> around 2045)
+- 2025 GOLDEN DISC OPENER (2025 -> around 200000000 or 2045)
   - FIRST OPENER
   - UNBREAKABLE TIE BREAK
-- Frontman of Singularity at around 2045 -> 2025 Team
+- Frontman of Singularity at around 200000000 or 2045 -> 2025 Team
   - Guys, are you at 2025? come with me and play :)
 - @Orgs with several people in the world
   - At Least;
