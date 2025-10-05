@@ -9,6 +9,9 @@ Guys, know me before? :) lol
   - Guys, are you at 2025? come with me and play :)
 - @Orgs with several people in the world
   - At Least;
+  - Universe
+  - Earth
+  - Korea
   - Tech University of Korea
   - StudioGnu
   - GNU
@@ -42,6 +45,10 @@ bc1q7lm0lt3xlu6mdy7m3ck0zchkya88w4qz6xhut5
 #### Ethereum
 
 0xcdc27815FEF1bF2586f655A7492cE3E604d0943a
+
+#### KRW (Korean Won)
+
+KB국민 37330101138803
 
 ### Stats
 
