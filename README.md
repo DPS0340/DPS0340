@@ -21,7 +21,8 @@ Guys, know me before? :) lol
   - SlowAnalyst
   - CNCF
   - Mondrian AI
-- Living EdgeRunner (V-Class)
+  - IEEE
+- Living EdgeRunner (V-Class Talent)
 - Next Einstein
 - Next Kant
 - Former:
