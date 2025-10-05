@@ -1,4 +1,4 @@
-### About
+ㅅ### About
 
 Guys, know me before? :) lol
 
@@ -9,7 +9,7 @@ Guys, know me before? :) lol
   - Guys, are you at 2025? come with me and play :)
 - @Orgs with several people in the world
   - At Least;
-  - Universe (2025)
+  - Universe (A.D. 2025)
   - Earth
   - Korea
   - Seoul National University
