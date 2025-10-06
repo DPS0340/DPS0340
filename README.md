@@ -11,7 +11,7 @@ Guys, know me before? :) lol
   - At Least;
   - Universe (A.D. 2025)
   - Earth
-  - Korea
+  - South Korea
   - Seoul National University
   - Tech University of Korea
   - StudioGnu
