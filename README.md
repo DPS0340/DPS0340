@@ -3,6 +3,7 @@
 Guys, know me before? :) lol
 
 - Believer (Scientific)
+  - Prove Theology == Science equation
 - 2025 GOLDEN DISC OPENER (2025 -> around 200000000)
   - FIRST OPENER
   - BREAKABLE TIE BREAK
