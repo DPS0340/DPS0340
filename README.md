@@ -7,11 +7,12 @@ Guys, know me before? :) lol
 - 2025 GOLDEN DISC OPENER (2025 -> around 200000000)
   - FIRST OPENER
   - BREAKABLE TIE BREAK
-- Frontman of Singularity at around 200000000 -> 2025 Team
-  - Guys, are you at 2025? come with me and play :)
+- Frontman of Singularity at around 2045 -> 2025 Team
+  - (With around 200000000 team, like inception) launched 2nd singularity on 2025
+  - Guys, are you (still) at 2025? come with me and play :)
 - @Orgs with several people in the world
   - At Least;
-  - Universe (A.D. 2025)
+  - (Simulated + Root) Universe
   - Earth
   - South Korea
   - Seoul National University
