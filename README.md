@@ -2,7 +2,7 @@
 
 Guys, know me before? :) lol
 
-- Believer
+- Believer (Scientific)
 - 2025 GOLDEN DISC OPENER (2025 -> around 200000000)
   - FIRST OPENER
   - BREAKABLE TIE BREAK
