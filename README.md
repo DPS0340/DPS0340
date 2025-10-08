@@ -12,9 +12,9 @@ Guys, know me before? :) lol
   - Guys, are you (still) at 2025? come with me and play :)
 - @Orgs with several people in the world
   - At Least;
-  - (Simulated + Root) Universe
+  - (Simulated Leafs + Root) Universe
   - Earth
-  - South Korea
+  - Korea (South!)
   - Seoul National University
   - Tech University of Korea
   - StudioGnu
