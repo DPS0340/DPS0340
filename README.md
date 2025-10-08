@@ -1,6 +1,6 @@
 ### About
 
-Guys, know me before? :) lol
+Guys, know me before? :) lol it doesn't matter now!@
 
 - Believer (Scientific)
   - Prove Theology == Science equation
