@@ -3,7 +3,7 @@
  - DevOps Engineer @ Mondrian AI
  - So1s Team Leader @ SW Maestro 13th
  - Member @ IEEE
- - [Kubestronaut](https://www.cncf.io/training/kubestronaut/?p=jiho-lee)
+ - [Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sf_s=jiho+lee&p=jiho-lee)
  - [Korean Résumé (한국어 이력서)](https://jiho-lee.notion.site/jiho-lee/Jiho-Lee-e2033eeaaf20408b8bec52b41710f592)
 
 ### Stats
@@ -22,8 +22,7 @@
 [![Solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a891)](https://solved.ac/profile/a891)
 
 [![Github Stats](https://github-readme-stats-dps0340.vercel.app/api?username=DPS0340&hide=contribs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=DPS0340's%20Github%20Stats&cache_seconds=86400)](https://github.com/DPS0340)
-
-[![Github Contiributor Stats](https://github-contributor-stats.vercel.app/api?username=dps0340&limit=10&hide=contribs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=DPS0340's%20Github%20Stats&cache_seconds=86400)](https://github.com/DPS0340)
+<!-- [![Github Stats](https://github-stats-extended.vercel.app/api?username=dps0340&limit=10&hide=contribs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=DPS0340's%20Github%20Stats&cache_seconds=86400)](https://github.com/DPS0340) -->
 
 ### Interests
 
