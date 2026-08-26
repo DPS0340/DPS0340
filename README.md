@@ -1,6 +1,6 @@
 ### About
 
- - DevOps Engineer @ Mondrian AI
+ - Former DevOps Engineer @ Mondrian AI
  - So1s Team Leader @ SW Maestro 13th
  - Member @ IEEE
  - [Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sf_s=jiho+lee&p=jiho-lee)
